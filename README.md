@@ -10,7 +10,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=medmedhaddioui&theme=shadow_blue&hide_border=false)<br/>
 [![Top Langs](https://<your-vercel-deployment-url>/api/top-langs/?username=medmedhaddioui&langs_count=15&layout=compact&theme=shadow_blue)](https://github.com/medmedhaddioui)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=medmedhaddioui&icon=0&color=0)](https://visitcount.itsvg.in)
 
