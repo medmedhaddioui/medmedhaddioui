@@ -2,57 +2,157 @@
 
 # Hi, I'm Mohammed Elhaddioui 👋
 
-### Software Engineer | Building with C, C++, JavaScript & the Web
+### Full-Stack Software Engineer | Backend Developer | Kubernetes Enthusiast
 
 <p>
-  <a href="https://linkedin.com/in/mohamed-elhaddioui-66ba74252/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/med_haddioui_/?hl=fr">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+Building scalable web applications, backend systems, APIs, and cloud-native infrastructure.
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=medmedhaddioui&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/medmedhaddioui?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/medmedhaddioui?style=social" alt="GitHub Stars"/>
 </p>
 
 </div>
 
 ---
 
-### 🧭 About Me
+## 👨‍💻 About Me
 
-- 🎓 Software Engineer with a strong foundation in systems programming and web development
-- 🛠️ Comfortable across the stack — from low-level C/C++ to modern JavaScript
-- 📚 Always learning, always building
-- 💬 Open to collaborating on interesting projects
-
----
-
-### 💻 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+* 🎓 Software Engineering student at **UM6P – 1337 Coding School**
+* 💻 Focused on **Full-Stack & Backend Development**
+* ⚙️ Building applications with **JavaScript, TypeScript, Node.js, React & Spring Boot**
+* ☁️ Learning and building with **Kubernetes, K3s, Docker & Linux**
+* 🧠 Exploring **Artificial Intelligence & Machine Learning**
+* 🛠️ Experienced with **REST APIs, WebSockets, Authentication & Third-Party Integrations**
+* 🤝 Open to collaborating on interesting software projects
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=medmedhaddioui&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=medmedhaddioui&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
+### 🛒 LetBuyTogether
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medmedhaddioui&langs_count=15&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-</p>
+A group-buying platform that allows users to discover promotions and create shared purchases with other users.
+
+* Group purchase management
+* Promotion discovery
+* Secure purchasing workflow
+* Full-stack architecture
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=medmedhaddioui&icon=0&color=0" alt="Visitor Count"/>
-</p>
+### ☸️ Kubernetes Infrastructure
 
-<p align="center"><sub>Thanks for stopping by!</sub></p>
+Built a multi-node Kubernetes environment using **K3s and Vagrant**.
+
+* Control-plane & worker nodes
+* Deployments
+* Services
+* ConfigMaps
+* Ingress
+* Linux infrastructure
+
+---
+
+### 🎮 Real-Time Multiplayer Game
+
+Real-time multiplayer platform built using **Fastify, WebSockets, React and SQLite**.
+
+* Real-time matches
+* Low-latency WebSocket communication
+* Automated tournaments
+* Live scoring
+* Player rankings
+
+---
+
+### 🛍️ E-commerce SaaS Integrations
+
+Worked on integrations for an e-commerce SaaS platform.
+
+* Shopify integrations
+* WooCommerce REST API
+* Google Sheets API
+* OAuth authentication
+* Webhooks
+* Third-party delivery APIs
+
+---
+
+## 🛠️ Languages & Technologies
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" />
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
+
+<br/><br/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+
+<br/><br/>
+
+### DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=medmedhaddioui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=medmedhaddioui&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medmedhaddioui&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mohamed-elhaddioui-66ba74252/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/medmedhaddioui">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/med_haddioui_/?hl=fr">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+#
