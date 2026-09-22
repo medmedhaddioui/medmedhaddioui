@@ -67,13 +67,11 @@ Currently building and learning around **backend systems, scalable APIs, distrib
 
 <div align="center">
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=medmedhaddioui&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<br/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=medmedhaddioui&theme=transparent&hide_border=true"/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medmedhaddioui&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
 
 </div>
 
 <br/>
-
-<div align="center">
